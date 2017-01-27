@@ -90,7 +90,7 @@
 	margin-right:20px
 }
 .side_ink {
-	background:url('#############################################################');
+	background:url('https://github.com/arun2k00/oacer/blob/master/side-blue-ink.png?raw=true');
 	position:absolute;
 	top:-43px;
 	left:0;
@@ -175,7 +175,7 @@ img#ink_segments {
 	position:relative;
 	width:606px;
 	height:73px;
-	background:url('##########################################################') no-repeat top center;
+	background:url('https://github.com/arun2k00/oacer/blob/master/horizontal-progress-bar.png?raw=true') no-repeat top center;
 	display:none;
 	z-index:4
 }
